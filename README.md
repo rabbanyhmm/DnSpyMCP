@@ -2,19 +2,19 @@
 
 # 🔬 DnSpy MCP Server
 
-[![GitHub stars](https://img.shields.io/github/stars/myexistences/DnSpyMCP?style=for-the-badge&logo=github&color=gold)](https://github.com/myexistences/DnSpyMCP/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/myexistences/DnSpyMCP?style=for-the-badge&logo=github&color=blue)](https://github.com/myexistences/DnSpyMCP/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/myexistences/DnSpyMCP?style=for-the-badge&logo=github&color=red)](https://github.com/myexistences/DnSpyMCP/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/myexistences/DnSpyMCP?style=for-the-badge&logo=github&color=green)](https://github.com/myexistences/DnSpyMCP/commits)
-[![GitHub license](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)](https://github.com/myexistences/DnSpyMCP/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/rabbanyhmm/DnSpyMCP?style=for-the-badge&logo=github&color=gold)](https://github.com/rabbanyhmm/DnSpyMCP/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rabbanyhmm/DnSpyMCP?style=for-the-badge&logo=github&color=blue)](https://github.com/rabbanyhmm/DnSpyMCP/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/rabbanyhmm/DnSpyMCP?style=for-the-badge&logo=github&color=red)](https://github.com/rabbanyhmm/DnSpyMCP/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/rabbanyhmm/DnSpyMCP?style=for-the-badge&logo=github&color=green)](https://github.com/rabbanyhmm/DnSpyMCP/commits)
+[![GitHub license](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)](https://github.com/rabbanyhmm/DnSpyMCP/blob/main/LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Version](https://img.shields.io/badge/version-2.4.1-orange?style=for-the-badge)](https://github.com/myexistences/DnSpyMCP/releases)
+[![Version](https://img.shields.io/badge/version-2.4.1-orange?style=for-the-badge)](https://github.com/rabbanyhmm/DnSpyMCP/releases)
 
 **A powerful MCP server for .NET reverse engineering, game hacking, and Il2Cpp dump analysis.**
 
 *31 AI-optimized tools • Cross-References • Network Reversing • Il2Cpp Support • TCP Proxy Analysis • Multi-DLL Search*
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=myexistences%2FDnSpyMCP&countColor=%23263759&style=for-the-badge)](https://visitorbadge.io/status?path=myexistences%2FDnSpyMCP)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=rabbanyhmm%2FDnSpyMCP&countColor=%23263759&style=for-the-badge)](https://visitorbadge.io/status?path=rabbanyhmm%2FDnSpyMCP)
 
 
 </div>
@@ -268,10 +268,10 @@ copy configs\instructions.md %USERPROFILE%\.gemini\antigravity-ide\mcp\dnspy\ins
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=myexistences%2FDnSpyMCP&type=date&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=rabbanyhmm%2FDnSpyMCP&type=date&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=myexistences/DnSpyMCP&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=myexistences/DnSpyMCP&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=myexistences/DnSpyMCP&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=rabbanyhmm/DnSpyMCP&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=rabbanyhmm/DnSpyMCP&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=rabbanyhmm/DnSpyMCP&type=date&legend=top-left" />
  </picture>
 </a>
